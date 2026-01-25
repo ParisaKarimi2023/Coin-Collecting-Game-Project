@@ -19,6 +19,5 @@ The Coin Collecting Game aims to :
 ### Liberaries
 <ul>
   <li>Pygame</li>
-  <li>OS</li>
   <li>Tk</li>
 </ul>
