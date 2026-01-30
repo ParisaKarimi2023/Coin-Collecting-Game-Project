@@ -6,7 +6,7 @@ functions, random number generation, and user interaction.
 The goal of the game is for the player to move around a virtual map and collect coins while avoiding obstacles or maximizing score.
 
 ## 2. Purpose of the Project
-The Coin Collecting Game aims to :
+The Coin Collecting Game aims to:
 <ul>
   <li>Teach fundamental Python concepts</li>
    <li>Demonstrate the use of random module</li>
